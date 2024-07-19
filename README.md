@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://github.com/user-attachments/assets/9fe4ccc0-f40c-4f66-89c1-4599d9199098" alt="Didesign">
+    <img src="https://github.com/user-attachments/assets/8636a16d-284b-483f-a5b3-e0da33fb418d" alt="Didesign">
   <br />
 
   <div>
