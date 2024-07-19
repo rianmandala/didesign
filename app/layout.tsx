@@ -41,8 +41,11 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => (
         property='og:description'
         content='Collaborate in real-time with Didesign, featuring multi-cursor interaction, cursor chat, and various design tools for a seamless creative experience.'
       />
-      <meta property='og:image' content='URL_TO_YOUR_IMAGE' />
-      <meta property='og:url' content='YOUR_WEBSITE_URL' />
+      <meta
+        property='og:image'
+        content='https://github.com/user-attachments/assets/01b13643-0012-4727-8880-aa6817e9c735'
+      />
+      <meta property='og:url' content='https://didesign.vercel.app/' />
       <meta property='og:type' content='website' />
       <meta name='twitter:card' content='summary_large_image' />
       <meta
@@ -53,8 +56,11 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => (
         name='twitter:description'
         content='Experience real-time collaborative design with Didesign. Engage with multi-cursor interaction, cursor chat, reactions, and more.'
       />
-      <meta name='twitter:image' content='URL_TO_YOUR_IMAGE' />
-      <meta name='twitter:url' content='YOUR_WEBSITE_URL' />
+      <meta
+        name='twitter:image'
+        content='https://github.com/user-attachments/assets/01b13643-0012-4727-8880-aa6817e9c735'
+      />
+      <meta name='twitter:url' content='https://didesign.vercel.app/' />
     </head>
     <body className={`${workSans.className} bg-primary-grey-200`}>
       <Room>
