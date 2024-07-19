@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://github.com/user-attachments/assets/01b13643-0012-4727-8880-aa6817e9c735" alt="Didesign">
+    <img src="https://github.com/user-attachments/assets/9fe4ccc0-f40c-4f66-89c1-4599d9199098" alt="Didesign">
   <br />
 
   <div>
@@ -10,7 +10,6 @@
   </div>
 
   <h3 align="center">Didesign</h3>
-
    <div align="center">
      Didesign is a collaborative design platform built with Next.js, TypeScript, Liveblocks, Fabric.js, Shadcn, and Tailwind CSS. It offers a rich set of features to enable real-time design collaboration and creativity.
     </div>
